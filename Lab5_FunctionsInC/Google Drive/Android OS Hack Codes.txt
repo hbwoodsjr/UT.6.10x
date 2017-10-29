@@ -1,0 +1,66 @@
+Hack Codes for Android Mobile
+
+1. Complete Information About your Phone
+*#*#4636#*#*
+
+2. Factory data reset
+*#*#7780#*#*
+
+3. Format Android Phone
+*2767*3855# (think twice before using this code)
+
+4. Phone Camera Update
+*#*#34971539#*#* (Don't Update camera firmware in image)
+
+5. End Call/Power
+*#*#7594#*#*
+
+6. File Copy for Creating Backup
+*#*#273283*255*663282*#*#*
+
+7. Service Mode
+*#*#197328640#*#*
+
+8. WLAN, GPS and Bluetooth Test Codes:
+
+*#*#232339#*#* OR *#*#526#*#* OR *#*#528#*#* - WLAN test (Use "Menu" button to start various tests)
+
+*#*#232338#*#* - Shows WiFi MAC address
+
+*#*#1472365#*#* - GPS test
+
+*#*#1575#*#* - Another GPS test
+
+*#*#232331#*#* - Bluetooth test
+
+*#*#232337#*# - Shows Bluetooth device address
+
+9. Codes to get Firmware version information:
+
+*#*#4986*2650468#*#* - PDA, Phone, H/W, RFCallDate
+
+*#*#1234#*#* - PDA and Phone
+
+*#*#1111#*#* - FTA SW Version
+
+*#*#2222#*#* - FTA HW Version
+
+*#*#44336#*#* - PDA, Phone, CSC, Build Time, Changelist number
+
+10. Codes to launch various Factory Tests:
+
+*#*#0283#*#* - Packet Loopback
+
+*#*#0*#*#* - LCD test
+
+*#*#0673#*#* OR *#*#0289#*#* - Melody test
+
+*#*#0842#*#* - Device test (Vibration test and BackLight test)
+
+*#*#2663#*#* - Touch screen version
+
+*#*#2664#*#* - Touch screen test
+
+*#*#0588#*#* - Proximity sensor test
+
+*#*#3264#*#* - RAM version
